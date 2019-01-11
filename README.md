@@ -13,3 +13,4 @@
 | -------------- | ------------------------ | ----------------------------- |
 | TripleZ's Blog | https://blog.triplez.cn/ | https://blog.triplez.cn/feed/ |
 | VVBLOG | https://blog.vvzero.com/ | https://blog.vvzero.com/atom.xml |
+| NINJIACODER忍者小屋 | http://rayzhao98.top/ | http://rayzhao98.top/rss |
