@@ -20,7 +20,7 @@
 
 ## Note
 
-- 项目地址 https://github.com/NUAA-Open-Source/BlogRoll/
+- 项目地址 [https://github.com/NUAA-Open-Source/BlogRoll/](https://github.com/NUAA-Open-Source/BlogRoll/)
 - 点击右上角 Watch, 关注文章更新;
 - 点击右上角 Star ，收藏本仓库到星标列表中;
 - 点击上方 issues 提交你们的分享或个人博客;
