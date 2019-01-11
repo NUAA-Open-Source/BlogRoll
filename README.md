@@ -12,4 +12,5 @@
 | Name           | Web                      | RSS                           |
 | -------------- | ------------------------ | ----------------------------- |
 | TripleZ's Blog | https://blog.triplez.cn/ | https://blog.triplez.cn/feed/ |
+| VVBLOG | https://blog.vvzero.com/ | https://blog.vvzero.com/atom.xml |
 
