@@ -9,7 +9,7 @@
 
 
 
-| Name           | Web                      | RSS                           |
-| -------------- | ------------------------ | ----------------------------- |
-| TripleZ's Blog | https://blog.triplez.cn/ | https://blog.triplez.cn/feed/ |
-
+| Name               | Web                      | RSS                           |
+| ------------------ | ------------------------ | ----------------------------- |
+| TripleZ's Blog     | https://blog.triplez.cn/ | https://blog.triplez.cn/feed/ |
+| NINJIACODER忍者小屋| http://rayzhao98.top/    | http://rayzhao98.top/rss      |
