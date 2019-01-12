@@ -21,6 +21,7 @@
 | [QRZ's Blog](https://qrzbing.cn/) | https://qrzbing.cn/ | https://qrzbing.cn/atom.xml |
 | [LogicJake's Blog](https://www.logicjake.xyz/) | https://www.logicjake.xyz/ | https://www.logicjake.xyz/?feed=rss2 |
 | [Stdio's Blog](https://blog.stdioa.com/) | https://blog.stdioa.com/ | https://blog.stdioa.com/atom.xml |
+| [KarlRixon's Blog](https://blog.karlrixon.cn/) | https://blog.karlrixon.cn/ | https://blog.karlrixon.cn/atom.xml |
 
 
 ## Note
