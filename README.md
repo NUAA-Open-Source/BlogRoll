@@ -14,6 +14,7 @@
 | Name           | Web                      | RSS                           |
 | -------------- | ------------------------ | ----------------------------- |
 | [0xe799bde88f9c](https://www.summershrimp.com/) | https://www.summershrimp.com/ | https://www.summershrimp.com/feed/ |
+| [R·ex / Zeng](https://blog.rexskz.info/)  | https://blog.rexskz.info/ | https://blog.rexskz.info/feed/ |
 | [TripleZ's Blog](https://blog.triplez.cn/) | https://blog.triplez.cn/ | https://blog.triplez.cn/feed/ |
 | [VVBLOG](https://blog.vvzero.com/) | https://blog.vvzero.com/ | https://blog.vvzero.com/atom.xml |
 | [NINJIACODER忍者小屋](http://rayzhao98.top/) | http://rayzhao98.top/ | http://rayzhao98.top/rss |
