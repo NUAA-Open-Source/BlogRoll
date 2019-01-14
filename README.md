@@ -23,7 +23,7 @@
 | [LogicJake's Blog](https://www.logicjake.xyz/) | https://www.logicjake.xyz/ | https://www.logicjake.xyz/?feed=rss2 |
 | [Stdio's Blog](https://blog.stdioa.com/) | https://blog.stdioa.com/ | https://blog.stdioa.com/atom.xml |
 | [KarlRixon's Blog](https://blog.karlrixon.cn/) | https://blog.karlrixon.cn/ | https://blog.karlrixon.cn/atom.xml |
-
+| [DoubleMice](https://doublemice.github.io) | https://doublemice.github.io | https://doublemice.github.io/feed.xml |
 
 ## Note
 
