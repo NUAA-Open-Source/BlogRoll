@@ -25,6 +25,7 @@
 | [KarlRixon's Blog](https://blog.karlrixon.cn/) | https://blog.karlrixon.cn/ | https://blog.karlrixon.cn/atom.xml |
 | [DoubleMice](https://doublemice.github.io) | https://doublemice.github.io | https://doublemice.github.io/feed.xml |
 | [Mercurius Notes](https://mnotes.me/) | https://mnotes.me/ | https://mnotes.me/feed.xml |
+| [Hyperiats](https://www.hyperiats.com/) | https://www.hyperiats.com/ | - |
 
 ## Note
 
