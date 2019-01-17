@@ -26,6 +26,7 @@
 | [DoubleMice](https://doublemice.github.io) | https://doublemice.github.io | https://doublemice.github.io/feed.xml |
 | [Mercurius Notes](https://mnotes.me/) | https://mnotes.me/ | https://mnotes.me/feed.xml |
 | [Hyperiats](https://www.hyperiats.com/) | https://www.hyperiats.com/ | - |
+| [Zedd's Blog](https://www.zeddyu.info) | https://blog.zeddyu.info/ | https://blog.zeddyu.info/atom.xml |
 
 ## Note
 
