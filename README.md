@@ -29,6 +29,7 @@
 | [Zedd's Blog](https://www.zeddyu.info) | https://www.zeddyu.info/ | https://blog.zeddyu.info/atom.xml |
 | [l1nk3dHouse](http://showlinkroom.me/) | http://showlinkroom.me/ | - |
 | [善良单纯的板の窝](https://yuwenjie.cc) | https://yuwenjie.cc/ | https://yuwenjie.cc/feed/ |
+| [Kitty萌新](https://kit4y.github.io/) | https://kit4y.github.io/ | https://kit4y.github.io/atom.xml |
 
 ## Note
 
