@@ -31,6 +31,7 @@
 | [善良单纯的板の窝](https://yuwenjie.cc) | https://yuwenjie.cc/ | https://yuwenjie.cc/feed/ |
 | [Kitty萌新](https://kit4y.github.io/) | https://kit4y.github.io/ | https://kit4y.github.io/atom.xml |
 | [PM Extra's Blog](https://www.jubeat.net/) | https://www.jubeat.net/ | - |
+| [狐狸的小小窝](https://www.noisyfox.io/) | https://www.noisyfox.io/ | https://www.noisyfox.io/feed/ |
 
 ## Note
 
