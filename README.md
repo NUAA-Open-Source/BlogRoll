@@ -36,8 +36,8 @@
 ## Note
 
 - 项目地址 [https://github.com/NUAA-Open-Source/BlogRoll/](https://github.com/NUAA-Open-Source/BlogRoll/)
-- 点击右上角 Watch, 关注文章更新;
-- 点击右上角 Star ，收藏本仓库到星标列表中;
-- 点击上方 issues 提交你们的分享或个人博客;
-- Fork 后, 麻烦编辑本文件 README 的目录内容，提 Pull Request;
-- 可以在评论中通过 @ 通知相关同学和分组.
+- 点击右上角 `Watch`, 关注 BlogRoll 更新;
+- 点击右上角 `Star` ，收藏本仓库到星标列表中;
+- 若不熟悉 Git flow, 则点击上方 `issues` 提交你们的分享或个人 Blog;
+- 推荐: `Fork` 后, 编辑本 `README` 文件的目录内容，提 `Pull Request` 来提交个人 Blog 及 RSS 地址;
+- 可以在评论中通过 `@` 通知相关同学和分组.
