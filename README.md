@@ -40,6 +40,7 @@
 | [PM Extra's Blog](https://www.jubeat.net/) | https://www.jubeat.net/ | - |
 | [狐狸的小小窝](https://www.noisyfox.io/) | https://www.noisyfox.io/ | https://www.noisyfox.io/feed/ |
 | [Creedowl's 嘤嘤嘤](https://blog.creedowl.xyz) | https://blog.creedowl.xyz/ | https://blog.creedowl.xyz/atom.xml |
+| [苏瑞辅的个人网站](https://www.suruifu.com/) | https://www.suruifu.com/ | - |
 
 
 ## Note
