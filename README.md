@@ -42,6 +42,7 @@
 | [Wu未名的博客](https://wuwm.nuaax.com/) | https://wuwm.nuaax.com/ | https://wuwm.nuaax.com/?feed=rss2 |
 | [Creedowl's 嘤嘤嘤](https://blog.creedowl.xyz) | https://blog.creedowl.xyz/ | https://blog.creedowl.xyz/atom.xml |
 | [苏瑞辅的个人网站](https://www.suruifu.com/) | https://www.suruifu.com/ | - |
+| [wansho-Blog](https://github.com/wansho) | https://github.com/wansho | - |
 
 
 ## Note
