@@ -43,6 +43,7 @@
 | [Creedowl's 嘤嘤嘤](https://blog.creedowl.com) | https://blog.creedowl.com/ | https://blog.creedowl.com/atom.xml |
 | [苏瑞辅的个人网站](https://www.suruifu.com/) | https://www.suruifu.com/ | - |
 | [wansho-Blog](http://blog.wansho.cn/) | http://blog.wansho.cn/ | - |
+| [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/ | - |
 
 
 ## Note
