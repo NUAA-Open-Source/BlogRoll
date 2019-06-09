@@ -12,6 +12,7 @@
 
 | Name           | Web                      | RSS                           |
 | -------------- | ------------------------ | ----------------------------- |
+| [A2OS](https://www.a2os.club/) | https://www.a2os.club/ | - |
 | [NUAATUG](https://tug.nuaalug.org) | https://tug.nuaalug.org | - |
 
 ## Personal Blog List
