@@ -45,6 +45,7 @@
 | [苏瑞辅的个人网站](https://www.suruifu.com/) | https://www.suruifu.com/ | - |
 | [wansho-Blog](http://blog.wansho.cn/) | http://blog.wansho.cn/ | - |
 | [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/ | - |
+| [IcedOtaku](https://waitforaday.site/) | https://blog.waitforaday.site/ | https://blog.waitforaday.site/atom.xml |
 
 
 ## Note
