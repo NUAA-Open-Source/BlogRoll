@@ -46,6 +46,7 @@
 | [wansho-Blog](http://blog.wansho.cn/) | http://blog.wansho.cn/ | - |
 | [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/ | - |
 | [IcedOtaku](https://waitforaday.site/) | https://blog.waitforaday.site/ | https://blog.waitforaday.site/atom.xml |
+| [MiaoTony](https://miaotony.github.io/) | https://miaotony.github.io/ | https://miaotony.github.io/atom.xml |
 
 
 ## Note
