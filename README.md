@@ -7,6 +7,8 @@
 南京航空航天大学在校生及校友均可参与此项目，提交 `issue` 或 `pull request` 即可添加 Blog 至此列表。
 具体可参见文件末尾 `Note` 。
 
+Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
+
 
 ## Organization Blog List
 
