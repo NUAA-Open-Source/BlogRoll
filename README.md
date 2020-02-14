@@ -34,7 +34,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [Stdio's Blog](https://blog.stdioa.com/) | https://blog.stdioa.com/ | https://blog.stdioa.com/atom.xml |
 | [KarlRixon's Blog](https://blog.karlrixon.cn/) | https://blog.karlrixon.cn/ | https://blog.karlrixon.cn/atom.xml |
 | [DoubleMice](https://doublemice.github.io) | https://doublemice.github.io | https://doublemice.github.io/feed.xml |
-| [Mercurius Notes](https://mnotes.me/) | https://mnotes.me/ | https://mnotes.me/feed.xml |
+| [The Invariant](https://invariant.me/) | https://invariant.me/ | https://invariant.me/rss/ |
 | [Hyperiats](https://www.hyperiats.com/) | https://www.hyperiats.com/ | - |
 | [Zedd's Blog](https://www.zeddyu.info) | https://www.zeddyu.info/ | https://blog.zeddyu.info/atom.xml |
 | [l1nk3dHouse](http://showlinkroom.me/) | http://showlinkroom.me/ | - |
