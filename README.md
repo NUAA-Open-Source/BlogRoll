@@ -12,43 +12,44 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 
 ## Organization Blog List
 
-| Name           | Web                      | RSS                           |
-| -------------- | ------------------------ | ----------------------------- |
-| [A2OS](https://www.a2os.club/) | https://www.a2os.club/ | - |
-| [NUAATUG](https://tug.nuaalug.org) | https://tug.nuaalug.org | - |
+| Name                               | Web                     | RSS |
+| ---------------------------------- | ----------------------- | --- |
+| [A2OS](https://www.a2os.club/)     | https://www.a2os.club/  | -   |
+| [NUAATUG](https://tug.nuaalug.org) | https://tug.nuaalug.org | -   |
 
 ## Personal Blog List
 
 
 
-| Name           | Web                      | RSS                           |
-| -------------- | ------------------------ | ----------------------------- |
-| [0xe799bde88f9c](https://www.summershrimp.com/) | https://www.summershrimp.com/ | https://www.summershrimp.com/feed/ |
-| [R·ex / Zeng](https://blog.rexskz.info/)  | https://blog.rexskz.info/ | https://blog.rexskz.info/feed/ |
-| [arcosx](https://arcosx.com/) | https://arcosx.com/ | https://arcosx.com/index.php/feed/ |
-| [TripleZ's Blog](https://blog.triplez.cn/) | https://blog.triplez.cn/ | https://blog.triplez.cn/feed/ |
-| [VVBLOG](https://blog.vvzero.com/) | https://blog.vvzero.com/ | https://blog.vvzero.com/atom.xml |
-| [NINJIACODER忍者小屋](https://rayzhao98.top/) | https://rayzhao98.top/ | https://rayzhao98.top/rss |
-| [QRZ's Blog](https://qrzbing.cn/) | https://qrzbing.cn/ | https://qrzbing.cn/atom.xml |
-| [LogicJake's Blog](https://www.logicjake.xyz/) | https://www.logicjake.xyz/ | https://www.logicjake.xyz/?feed=rss2 |
-| [Stdio's Blog](https://blog.stdioa.com/) | https://blog.stdioa.com/ | https://blog.stdioa.com/atom.xml |
-| [KarlRixon's Blog](https://blog.karlrixon.cn/) | https://blog.karlrixon.cn/ | https://blog.karlrixon.cn/atom.xml |
-| [DoubleMice](https://doublemice.github.io) | https://doublemice.github.io | https://doublemice.github.io/feed.xml |
-| [The Invariant](https://invariant.me/) | https://invariant.me/ | https://invariant.me/rss/ |
-| [Hyperiats](https://www.hyperiats.com/) | https://www.hyperiats.com/ | - |
-| [Zedd's Blog](https://www.zeddyu.info) | https://www.zeddyu.info/ | https://blog.zeddyu.info/atom.xml |
-| [l1nk3dHouse](http://showlinkroom.me/) | http://showlinkroom.me/ | - |
-| [善良单纯的板の窝](https://yuwenjie.cc) | https://yuwenjie.cc/ | https://yuwenjie.cc/feed/ |
-| [Kitty萌新](https://kit4y.github.io/) | https://kit4y.github.io/ | https://kit4y.github.io/atom.xml |
-| [PM Extra's Blog](https://www.jubeat.net/) | https://www.jubeat.net/ | - |
-| [狐狸的小小窝](https://www.noisyfox.io/) | https://www.noisyfox.io/ | https://www.noisyfox.io/feed/ |
-| [Wu未名的博客](https://wuwm.nuaax.com/) | https://wuwm.nuaax.com/ | https://wuwm.nuaax.com/?feed=rss2 |
-| [Creedowl's 嘤嘤嘤](https://blog.creedowl.com) | https://blog.creedowl.com/ | https://blog.creedowl.com/atom.xml |
-| [苏瑞辅的个人网站](https://www.suruifu.com/) | https://www.suruifu.com/ | https://www.suruifu.com/feed |
-| [wansho-Blog](http://blog.wansho.cn/) | http://blog.wansho.cn/ | - |
-| [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/ | - |
-| [IcedOtaku](https://waitforaday.site/) | https://blog.waitforaday.site/ | https://blog.waitforaday.site/atom.xml |
-| [MiaoTony](https://miaotony.github.io/) | https://miaotony.github.io/ | https://miaotony.github.io/atom.xml |
+| Name                                             | Web                            | RSS                                    |
+| ------------------------------------------------ | ------------------------------ | -------------------------------------- |
+| [0xe799bde88f9c](https://www.summershrimp.com/)  | https://www.summershrimp.com/  | https://www.summershrimp.com/feed/     |
+| [R·ex / Zeng](https://blog.rexskz.info/)         | https://blog.rexskz.info/      | https://blog.rexskz.info/feed/         |
+| [arcosx](https://arcosx.com/)                    | https://arcosx.com/            | https://arcosx.com/index.php/feed/     |
+| [TripleZ's Blog](https://blog.triplez.cn/)       | https://blog.triplez.cn/       | https://blog.triplez.cn/feed/          |
+| [VVBLOG](https://blog.vvzero.com/)               | https://blog.vvzero.com/       | https://blog.vvzero.com/atom.xml       |
+| [NINJIACODER忍者小屋](https://rayzhao98.top/)    | https://rayzhao98.top/         | https://rayzhao98.top/rss              |
+| [QRZ's Blog](https://qrzbing.cn/)                | https://qrzbing.cn/            | https://qrzbing.cn/atom.xml            |
+| [LogicJake's Blog](https://www.logicjake.xyz/)   | https://www.logicjake.xyz/     | https://www.logicjake.xyz/?feed=rss2   |
+| [Stdio's Blog](https://blog.stdioa.com/)         | https://blog.stdioa.com/       | https://blog.stdioa.com/atom.xml       |
+| [KarlRixon's Blog](https://blog.karlrixon.cn/)   | https://blog.karlrixon.cn/     | https://blog.karlrixon.cn/atom.xml     |
+| [DoubleMice](https://doublemice.github.io)       | https://doublemice.github.io   | https://doublemice.github.io/feed.xml  |
+| [The Invariant](https://invariant.me/)           | https://invariant.me/          | https://invariant.me/rss/              |
+| [Hyperiats](https://www.hyperiats.com/)          | https://www.hyperiats.com/     | -                                      |
+| [Zedd's Blog](https://www.zeddyu.info)           | https://www.zeddyu.info/       | https://blog.zeddyu.info/atom.xml      |
+| [l1nk3dHouse](http://showlinkroom.me/)           | http://showlinkroom.me/        | -                                      |
+| [善良单纯的板の窝](https://yuwenjie.cc)          | https://yuwenjie.cc/           | https://yuwenjie.cc/feed/              |
+| [Kitty萌新](https://kit4y.github.io/)            | https://kit4y.github.io/       | https://kit4y.github.io/atom.xml       |
+| [PM Extra's Blog](https://www.jubeat.net/)       | https://www.jubeat.net/        | -                                      |
+| [狐狸的小小窝](https://www.noisyfox.io/)         | https://www.noisyfox.io/       | https://www.noisyfox.io/feed/          |
+| [Wu未名的博客](https://wuwm.nuaax.com/)          | https://wuwm.nuaax.com/        | https://wuwm.nuaax.com/?feed=rss2      |
+| [Creedowl's 嘤嘤嘤](https://blog.creedowl.com)   | https://blog.creedowl.com/     | https://blog.creedowl.com/atom.xml     |
+| [苏瑞辅的个人网站](https://www.suruifu.com/)     | https://www.suruifu.com/       | https://www.suruifu.com/feed           |
+| [wansho-Blog](http://blog.wansho.cn/)            | http://blog.wansho.cn/         | -                                      |
+| [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/         | -                                      |
+| [IcedOtaku](https://waitforaday.site/)           | https://blog.waitforaday.site/ | https://blog.waitforaday.site/atom.xml |
+| [MiaoTony](https://miaotony.github.io/)          | https://miaotony.github.io/    | https://miaotony.github.io/atom.xml    |
+| [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
 
 
 ## Note
