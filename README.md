@@ -30,7 +30,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [VVBLOG](https://blog.vvzero.com/)               | https://blog.vvzero.com/       | https://blog.vvzero.com/atom.xml       |
 | [NINJIACODER忍者小屋](https://rayzhao98.top/)    | https://rayzhao98.top/         | https://rayzhao98.top/rss              |
 | [QRZ's Blog](https://qrzbing.cn/)                | https://qrzbing.cn/            | https://qrzbing.cn/atom.xml            |
-| [LogicJake's Blog](https://www.logicjake.xyz/)   | https://www.logicjake.xyz/     | https://www.logicjake.xyz/?feed=rss2   |
+| [LogicJake's Blog](https://www.logicjake.xyz/)   | https://www.logicjake.xyz/     | https://www.logicjake.xyz/atom.xml   |
 | [Stdio's Blog](https://blog.stdioa.com/)         | https://blog.stdioa.com/       | https://blog.stdioa.com/atom.xml       |
 | [KarlRixon's Blog](https://blog.karlrixon.cn/)   | https://blog.karlrixon.cn/     | https://blog.karlrixon.cn/atom.xml     |
 | [DoubleMice](https://doublemice.github.io)       | https://doublemice.github.io   | https://doublemice.github.io/feed.xml  |
