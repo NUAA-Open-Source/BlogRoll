@@ -49,7 +49,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [wansho-Blog](http://blog.wansho.cn/)            | http://blog.wansho.cn/         | -                                      |
 | [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/         | -                                      |
 | [IcedOtaku](https://waitforaday.site/)           | https://blog.waitforaday.site/ | https://blog.waitforaday.site/atom.xml |
-| [MiaoTony](https://miaotony.github.io/)          | https://miaotony.github.io/    | https://miaotony.github.io/atom.xml    |
+| [MiaoTony](https://miaotony.xyz)                 | https://miaotony.xyz/          | https://miaotony.xyz/atom.xml          |
 | [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
 
 
