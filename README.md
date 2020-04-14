@@ -39,7 +39,6 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [Hyperiats](https://www.hyperiats.com/)          | https://www.hyperiats.com/     | -                                      |
 | [Zedd's Blog](https://www.zeddyu.info)           | https://www.zeddyu.info/       | https://blog.zeddyu.info/atom.xml      |
 | [l1nk3dHouse](http://showlinkroom.me/)           | http://showlinkroom.me/        | -                                      |
-| [善良单纯的板の窝](https://yuwenjie.cc)          | https://yuwenjie.cc/           | https://yuwenjie.cc/feed/              |
 | [Kitty萌新](https://kit4y.github.io/)            | https://kit4y.github.io/       | https://kit4y.github.io/atom.xml       |
 | [PM Extra's Blog](https://www.jubeat.net/)       | https://www.jubeat.net/        | -                                      |
 | [狐狸的小小窝](https://www.noisyfox.io/)         | https://www.noisyfox.io/       | https://www.noisyfox.io/feed/          |
