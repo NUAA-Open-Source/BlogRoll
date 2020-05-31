@@ -50,7 +50,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [IcedOtaku](https://waitforaday.site/)           | https://blog.waitforaday.site/ | https://blog.waitforaday.site/atom.xml |
 | [MiaoTony](https://miaotony.xyz)                 | https://miaotony.xyz/          | https://miaotony.xyz/atom.xml          |
 | [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
-| [Jieb的博客](http://www.jiebcoder.top/)      | http://www.jiebcoder.top/     | http://www.jiebcoder.top/atom.xml     |
+| [Jieb的个人网站](http://www.jiebcoder.top/)      | http://www.jiebcoder.top/     | http://www.jiebcoder.top/atom.xml     |
 
 ## Note
 
