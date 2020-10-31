@@ -52,6 +52,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
 | [Jieb的个人网站](http://www.jiebcoder.top/)      | http://www.jiebcoder.top/     | http://www.jiebcoder.top/atom.xml     |
 | [CosmosNing的个人博客](https://cosmosning.github.io/)      | https://cosmosning.github.io/     | https://cosmosning.github.io/atom.xml     |
+| [Zwlin's Blog](https://blog.zwlinc.com)| https://blog.zwlinc.com | -  |
 
 ## Note
 
