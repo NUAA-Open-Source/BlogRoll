@@ -55,6 +55,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [Zwlin's Blog](https://blog.zwlinc.com)| https://blog.zwlinc.com | -  |
 | [S3lab 每日论文推荐](https://nuaa-s3lab.github.io/dailyPaper/) | https://nuaa-s3lab.github.io/dailyPaper/ | https://nuaa-s3lab.github.io/dailyPaper/rss.xml |
 | [Alston's blog](https://alst0n.site/) | https://alst0n.site/ | - |
+| [Kindem's blog](https://www.kindem.xyz/) | https://www.kindem.xyz/ | - |
 
 
 
