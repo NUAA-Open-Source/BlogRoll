@@ -16,6 +16,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | ---------------------------------- | ----------------------- | --- |
 | [A2OS](https://www.a2os.club/)     | https://www.a2os.club/  | -   |
 | [NUAATUG](https://tug.nuaalug.org) | https://tug.nuaalug.org | -   |
+| [A2OS 开源社区论坛](https://bbs.a2os.club/) | https://bbs.a2os.club/ | https://bbs.a2os.club/atom/d |
 
 ## Personal Blog List
 
@@ -57,7 +58,6 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [Alston's blog](https://alst0n.site/) | https://alst0n.site/ | - |
 | [Kindem's blog](https://www.kindem.xyz/) | https://www.kindem.xyz/ | - |
 | [AshinZ's blog](https://ashinz.cn/) | https://ashinz.cn/ | - |
-| [A2OS 开源社区论坛](https://bbs.a2os.club/) | https://bbs.a2os.club/ | https://bbs.a2os.club/atom/d |
 | [Tyfann's blog](https://tyfann.github.io/) | https://tyfann.github.io/ | - |
 
 
