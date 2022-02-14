@@ -51,7 +51,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [IcedOtaku](https://waitforaday.site/)           | https://blog.waitforaday.site/ | https://blog.waitforaday.site/atom.xml |
 | [MiaoTony](https://miaotony.xyz)                 | https://miaotony.xyz/          | https://miaotony.xyz/atom.xml          |
 | [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
-| [风的个人网站](http://www.windboy.top/)      | http://www.windboy.top/     | http://www.windboy.top/atom.xml     |
+| [风的个人网站](https://github.com/windwj000)      | https://github.com/windwj000     | https://github.com/windwj000/atom.xml     |
 | [CosmosNing的个人博客](https://cosmosning.github.io/)      | https://cosmosning.github.io/     | https://cosmosning.github.io/atom.xml     |
 | [Zwlin's Blog](https://think.zwlinc.com)| https://think.zwlinc.com | -  |
 | [S3lab 每日论文推荐](https://nuaa-s3lab.github.io/dailyPaper/) | https://nuaa-s3lab.github.io/dailyPaper/ | https://nuaa-s3lab.github.io/dailyPaper/rss.xml |
