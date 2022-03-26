@@ -59,6 +59,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [Kindem's blog](https://www.kindem.xyz/) | https://www.kindem.xyz/ | - |
 | [AshinZ's blog](https://ashinz.cn/) | https://ashinz.cn/ | - |
 | [Tyfann's blog](https://tyfann.github.io/) | https://tyfann.github.io/ | - |
+| [ImCaO's blog](https://www.imcao.cn/) | https://www.imcao.cn/ | - |
 
 
 ## Note
