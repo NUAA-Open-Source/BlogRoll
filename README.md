@@ -40,24 +40,18 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [Hyperiats](https://www.hyperiats.com/)          | https://www.hyperiats.com/     | -                                      |
 | [Zedd's Blog](https://www.zeddyu.info)           | https://www.zeddyu.info/       | https://blog.zeddyu.info/atom.xml      |
 | [l1nk3dHouse](http://showlinkroom.me/)           | http://showlinkroom.me/        | -                                      |
-| [Kitty萌新](https://kit4y.github.io/)            | https://kit4y.github.io/       | https://kit4y.github.io/atom.xml       |
 | [PM Extra's Blog](https://www.jubeat.net/)       | https://www.jubeat.net/        | -                                      |
 | [狐狸的小小窝](https://www.noisyfox.io/)         | https://www.noisyfox.io/       | https://www.noisyfox.io/feed/          |
-| [Wu未名的博客](https://wuwm.nuaax.com/)          | https://wuwm.nuaax.com/        | https://wuwm.nuaax.com/?feed=rss2      |
 | [Creedowl's Blog](https://blog.creedowl.com)   | https://blog.creedowl.com/     | https://blog.creedowl.com/posts/index.xml     |
 | [苏瑞辅的个人网站](https://www.suruifu.com/)     | https://www.suruifu.com/       | https://www.suruifu.com/feed           |
-| [wansho-Blog](http://blog.wansho.cn/)            | http://blog.wansho.cn/         | -                                      |
 | [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/         | -                                      |
-| [IcedOtaku](https://waitforaday.site/)           | https://blog.waitforaday.site/ | https://blog.waitforaday.site/atom.xml |
 | [MiaoTony](https://miaotony.xyz)                 | https://miaotony.xyz/          | https://miaotony.xyz/atom.xml          |
 | [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
 | [风的个人网站](http://www.windboy.top/)      | http://www.windboy.top/     | http://www.windboy.top/atom.xml     |
 | [CosmosNing的个人博客](https://cosmosning.github.io/)      | https://cosmosning.github.io/     | https://cosmosning.github.io/atom.xml     |
 | [Zwlin's Blog](https://think.zwlinc.com)| https://think.zwlinc.com | -  |
 | [S3lab 每日论文推荐](https://nuaa-s3lab.github.io/dailyPaper/) | https://nuaa-s3lab.github.io/dailyPaper/ | https://nuaa-s3lab.github.io/dailyPaper/rss.xml |
-| [Alston's blog](https://alst0n.site/) | https://alst0n.site/ | - |
 | [Kindem's blog](https://www.kindem.xyz/) | https://www.kindem.xyz/ | - |
-| [AshinZ's blog](https://ashinz.cn/) | https://ashinz.cn/ | - |
 | [Tyfann's blog](https://tyfann.github.io/) | https://tyfann.github.io/ | - |
 | [ImCaO's blog](https://www.imcao.cn/) | https://www.imcao.cn/ | - |
 
