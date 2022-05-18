@@ -49,7 +49,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
 | [风的个人网站](http://www.windboy.top/)      | http://www.windboy.top/     | http://www.windboy.top/atom.xml     |
 | [CosmosNing的个人博客](https://cosmosning.github.io/)      | https://cosmosning.github.io/     | https://cosmosning.github.io/atom.xml     |
-| [Zwlin's Blog](https://think.zwlinc.com)| https://think.zwlinc.com | -  |
+| [Zwlin's Blog](https://blog.zwlin.io)| https://blog.zwlin.io | https://blog.zwlin.io/index.xml  |
 | [S3lab 每日论文推荐](https://nuaa-s3lab.github.io/dailyPaper/) | https://nuaa-s3lab.github.io/dailyPaper/ | https://nuaa-s3lab.github.io/dailyPaper/rss.xml |
 | [Kindem's blog](https://www.kindem.xyz/) | https://www.kindem.xyz/ | - |
 | [Tyfann's blog](https://tyfann.github.io/) | https://tyfann.github.io/ | - |
