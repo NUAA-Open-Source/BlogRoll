@@ -54,6 +54,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [Kindem's blog](https://www.kindem.xyz/) | https://www.kindem.xyz/ | - |
 | [Tyfann's blog](https://tyfann.github.io/) | https://tyfann.github.io/ | - |
 | [ImCaO's blog](https://www.imcao.cn/) | https://www.imcao.cn/ | - |
+| [Misaka10201's blog](https://www.aurora.love/) | https://www.aurora.love/ | - |
 
 
 ## Note
