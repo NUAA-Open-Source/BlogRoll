@@ -44,7 +44,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [狐狸的小小窝](https://www.noisyfox.io/)         | https://www.noisyfox.io/       | https://www.noisyfox.io/feed/          |
 | [Creedowl's Blog](https://blog.creedowl.com)   | https://blog.creedowl.com/     | https://blog.creedowl.com/posts/index.xml     |
 | [苏瑞辅的个人网站](https://www.suruifu.com/)     | https://www.suruifu.com/       | https://www.suruifu.com/feed           |
-| [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/         | -                                      |
+| [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/         | https://zhizhiyang.cn/rss            |
 | [MiaoTony](https://miaotony.xyz)                 | https://miaotony.xyz/          | https://miaotony.xyz/atom.xml          |
 | [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
 | [风的个人网站](http://www.windboy.top/)      | http://www.windboy.top/     | http://www.windboy.top/atom.xml     |
