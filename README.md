@@ -46,7 +46,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 | [苏瑞辅的个人网站](https://www.suruifu.com/)     | https://www.suruifu.com/       | https://www.suruifu.com/feed           |
 | [Raphael Yang’s Tabloid](https://zhizhiyang.cn/) | https://zhizhiyang.cn/         | https://zhizhiyang.cn/rss            |
 | [MiaoTony](https://miaotony.xyz)                 | https://miaotony.xyz/          | https://miaotony.xyz/atom.xml          |
-| [zhuwenq的博客](https://Leonezz.github.io/)      | https://Leonezz.github.io/     | https://leonezz.github.io/atom.xml     |
+| [zhuwenq 的博客](https://blog.zhuwenq.icu/)      | https://blog.zhuwenq.icu/     | https://blog.zhuwenq.icu/atom.xml     |
 | [风的个人网站](http://www.windboy.top/)      | http://www.windboy.top/     | http://www.windboy.top/atom.xml     |
 | [CosmosNing的个人博客](https://cosmosning.github.io/)      | https://cosmosning.github.io/     | https://cosmosning.github.io/atom.xml     |
 | [Zwlin's Blog](https://blog.zwlin.io)| https://blog.zwlin.io | https://blog.zwlin.io/index.xml  |
