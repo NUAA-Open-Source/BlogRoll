@@ -14,9 +14,8 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 
 | Name                               | Web                     | RSS |
 | ---------------------------------- | ----------------------- | --- |
-| [A2OS](https://www.a2os.club/)     | https://www.a2os.club/  | -   |
+| [A2OS](https://nuaa-open-source.github.io/a2os_index/)     | https://nuaa-open-source.github.io/a2os_index/  | -   |
 | ~~[NUAATUG](https://tug.nuaalug.org)~~ | ~~https://tug.nuaalug.org~~ | -   |
-| ~~[A2OS 开源社区论坛](https://bbs.a2os.club/)~~ | ~~https://bbs.a2os.club/~~ | ~~https://bbs.a2os.club/atom/d~~ |
 
 ## Personal Blog List
 
