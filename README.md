@@ -64,3 +64,7 @@ Telegram channel：[A2OS 聚合](https://t.me/s/a2os_rss)
 - 若不熟悉 Git flow, 则点击上方 `issues` 提交你们的分享或个人 Blog;
 - 推荐: `Fork` 后, 编辑本 `README` 文件的目录内容，提 `Pull Request` 来提交个人 Blog 及 RSS 地址;
 - 可以在评论中通过 `@` 通知相关同学和分组.
+
+## 最新文章
+
+<script data-category-id="3" data-page="posts" async src="https://nuaa-blog.5ec.top/app.js"></script>
