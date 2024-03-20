@@ -1,0 +1,28 @@
+name: Update RSS Feed
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run update 
+        run: python update.py
+        env:
+          MINIFLUX_ENDPOINT: ${{ secrets.MINIFLUX_ENDPOINT }}
+          MINIFLUX_API_KEY: ${{ secrets.MINIFLUX_API_KEY }}
